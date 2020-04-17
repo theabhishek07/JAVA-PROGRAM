@@ -7,7 +7,7 @@ This Repository was made to maintain various Programmes in JAVA in a single spac
 # 1. Fork it 🍴
 You can get your own fork/copy of [JAVA-PROGRAM](https://github.com/theabhishek07/JAVA-PROGRAM) by using the `Fork` button
 
-[Fork Button](https://github-images.s3.amazonaws.com/help/bootcamp/Bootcamp-Fork.png)
+[Fork Button](https://www.google.com/url?sa=i&url=https%3A%2F%2Fguides.github.com%2Factivities%2Fforking%2F&psig=AOvVaw2EA5xs_s4QEafTMreBOS38&ust=1587244260147000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJju_eiv8OgCFQAAAAAdAAAAABAD)
 
 # 2. Clone it 👥
 You need to go to your Fork of the Repository and then clone (download) it to local machine using
