@@ -27,7 +27,8 @@ $ git remote add upstream https://github.com/theabhishek07/JAVA-PROGRAM.git
 This adds a new remote named upstream.
 
 See the changes using
-$ git remote -v
+
+`$ git remote -v`
 
   *origin https://github.com/Your_Username/JAVA-PROGRAM.git (fetch).*
   *origin https://github.com/Your_Username/JAVA-PROGRAM.git (push).*
