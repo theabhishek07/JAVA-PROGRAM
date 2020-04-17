@@ -34,7 +34,7 @@ origin    https://github.com/Your_Username/JAVA-PROGRAM.git (push)
 upstream  https://github.com/theabhishek07/JAVA-PROGRAM.git (fetch)
 upstream  https://github.com/theabhishek07/JAVA-PROGRAM.git (push)
 
-# 3. Sync with the Remote
+# 3. Sync with the Remote :arrows_counterclockwise:
 Always keep your local copy of repository updated with the original repository.
 
 # Fetch all remote repositories and delete any deleted remote branches
