@@ -3,14 +3,13 @@ Welcome to Object Oriented Programming in JAVA 📋
 This Repository was made to maintain various Programmes in JAVA in a single space. This Repository is maintained by theabhishek07 .This is a public Repository and all sorts of contributions to the code are welcomed.
 # You are always welcome to add more or improve any resource in this repository.
 
-**Steps to follow 📜
-1. Fork it 🍴
+# Steps to follow 📜
+# 1. Fork it 🍴
 You can get your own fork/copy of JAVA-PROGRAM by using the Fork button
 
 Fork Button
 
-**2. Clone it 👥
-
+# 2. Clone it 👥
 You need to go to your Fork of the Repository and then clone (download) it to local machine using
 
 $ git clone https://github.com/Your_Username/JAVA-PROGRAM.git
