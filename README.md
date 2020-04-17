@@ -48,7 +48,8 @@ $ git reset --hard upstream/master
 
 # Push changes to your forked `JAVA-PROGRAM` repo
 $ git push origin master
-4. Create a new branch ‼️
+
+# 4. Create a new branch ‼️
 Whenever you are going to make a contribution. Please create a new branch using the command below and keep your master branch clean (i.e. synced with remote branch).
 
 # It will create a new branch with name <branchname> and switch to branch <branchname>
