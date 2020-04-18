@@ -42,17 +42,17 @@ Always keep your local copy of repository updated with the original repository.
 ```python
 # Fetch all remote repositories and delete any deleted remote branches
 $ git fetch --all --prune
-# Switch to `master` branch
+# Switch to master branch
 $ git checkout master
-# Reset local `master` branch to match `upstream` repository's `master` branch
+# Reset local master branch to match upstream repository's master branch
 $ git reset --hard upstream/master
-# Push changes to your forked `JAVA-PROGRAM` repo
+# Push changes to your forked JAVA-PROGRAM repo
 $ git push origin master
 ```
 ## 4. Create a new branch ‼️
 Whenever you are going to make a contribution. Please create a new branch using the command below and keep your master branch clean (i.e. synced with remote branch).
 ```python
-# It will create a new branch with name  `<branchname>` and switch to branch `<branchname>`
+# It will create a new branch with name  <branchname> and switch to branch <branchname>
 $ git checkout -b <branchname>
   ```
 To switch to desired branch
@@ -73,6 +73,6 @@ $ git commit -m "relevant message"
 Now, Push your awesome work to your remote repository using
 ```python
 # To push your work to your remote repository
-`$ git push -u origin <branchname>`
+$ git push -u origin <branchname>
 ```
 Finally, go to your repository in browser and click on `compare and pull requests`. Then add a title and description to your pull request that explains your precious effort.
