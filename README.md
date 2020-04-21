@@ -76,3 +76,8 @@ Now, Push your awesome work to your remote repository using
 $ git push -u origin <branchname>
 ```
 Finally, go to your repository in browser and click on `compare and pull requests`. Then add a title and description to your pull request that explains your precious effort.
+
+# LICENSE
+[License](https://github.com/theabhishek07/JAVA-PROGRAM/blob/master/LICENSE)
+# CODE_OF_CONDUCT
+[CODE_OF_CONDUCT](https://github.com/theabhishek07/JAVA-PROGRAM/blob/master/CODE_OF_CONDUCT.md)
