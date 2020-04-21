@@ -17,8 +17,8 @@ public class constructor {
  System.out.println(roll+ " "+name+" "+ age);
 }
     public static void main(String[] args) {
-        constructor s1 = new constructor(101,"palak");
-        constructor s2 = new constructor(106,"gaurav",19);
+        constructor s1 = new constructor(101,"Sharma");
+        constructor s2 = new constructor(106,"Abhishek",19);
         s1.display();
         s2.display();
     }
