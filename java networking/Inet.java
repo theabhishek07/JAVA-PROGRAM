@@ -10,8 +10,6 @@ public class Inet {
         }
         catch(Exception e){
             System.out.println(e);
-        }
-        
-    }
-    
+        }   
+    }  
 }
