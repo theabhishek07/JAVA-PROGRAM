@@ -11,5 +11,4 @@ public class eqaual {
         System.out.println(s4.compareTo(s5));
         System.out.println(s5.compareTo(s1));
     }
-    
 }
