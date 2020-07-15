@@ -1,5 +1,7 @@
-public class eqaual {
-    public static void main(String[] args) {
+public class eqaual 
+{
+    public static void main(String[] args) 
+    {
         String s1="abhishek";
         String s2="sharma";
         String s3=new String ("abhishek");
