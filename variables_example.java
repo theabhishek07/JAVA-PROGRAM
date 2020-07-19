@@ -6,8 +6,10 @@
 //}    
 
 
-public class variables_1 {
-    public static void main(String args[]){
+public class variables_1
+{
+    public static void main(String args[])
+    {
     //add two numbers
     int a=1;
     int b=15;
