@@ -7,8 +7,6 @@ public class throw_example {
     }
     public static void main(String[] args) {
         testAge(17);
-        System.out.println("rest of code");
-        
-    }
-    
+        System.out.println("rest of code");   
+    }  
 }
