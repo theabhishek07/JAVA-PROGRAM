@@ -1,5 +1,3 @@
-/**command line progress animation**/
-
 class demo extends Thread
 {
 public  static void main(final String[] args)
