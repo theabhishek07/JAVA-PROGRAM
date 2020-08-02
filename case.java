@@ -2,8 +2,10 @@
 //note. in input every new word is concatenated at the end of previous word and started with the uppercase
 //eg. saveChangesInTheEditor 5 words
 import java.util.Scanner;
-public class Case{
-    public static void main(String args[]){
+public class Case
+{
+    public static void main(String args[])
+    {
         int count=1;//intialize count to 1
         Scanner sc=new Scanner(System.in);
         String line=sc.nextLine();//take input of the string and store it in line
@@ -17,7 +19,6 @@ public class Case{
                  count++;
              }
         }
-        System.out.println(count);
-        
+        System.out.println(count);  
     }
 }
