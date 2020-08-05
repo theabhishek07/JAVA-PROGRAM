@@ -13,5 +13,4 @@ public class finally_1
         finally{System.err.println("hello there");}
         System.out.println("rest of the code");
     }
-    
 }
