@@ -1,11 +1,13 @@
-interface first{
+interface first
+{
     void first1();
     
 }
 interface second{
     void second2();
 }
-class test implements first,second{
+class test implements first,second
+{
     public void first1(){
         System.out.println("testing");
     }
@@ -14,10 +16,10 @@ class test implements first,second{
     }
 }
 public class test_multiple {
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         test obj=new test();
         obj.first1();
         obj.second2();
-    }
-    
+    } 
 }
