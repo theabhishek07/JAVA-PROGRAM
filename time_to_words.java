@@ -1,4 +1,4 @@
-//program to convert time into words
+                                                                    //program to convert time into words
 import java.util.Scanner;
 public class sol{
     static void words(int h,int m){
