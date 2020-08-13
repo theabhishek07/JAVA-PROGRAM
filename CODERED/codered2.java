@@ -1,11 +1,14 @@
 package practice_java;
-public class codered1 extends javax.swing.JFrame {
+public class codered1 extends javax.swing.JFrame 
+{
 
-    public codered1() {
+    public codered1()
+    {
         initComponents();
     }
 
-    private void initComponents() {
+    private void initComponents()
+    {
 
         jLabel1 = new javax.swing.JLabel();
         symptom1 = new javax.swing.JTextField();
