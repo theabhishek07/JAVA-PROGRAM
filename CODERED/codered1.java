@@ -1,9 +1,11 @@
 package practice_java;
-public class codered0 extends javax.swing.JFrame {
+public class codered0 extends javax.swing.JFrame
+{
     public codered0() {
         initComponents();
     }
- private void initComponents() {
+ private void initComponents() 
+ {
 
         welcome = new javax.swing.JLabel();
         codered = new javax.swing.JLabel();
@@ -82,14 +84,18 @@ public class codered0 extends javax.swing.JFrame {
         pack();
     }                        
 
-    private void continue0ActionPerformed(java.awt.event.ActionEvent evt) {                                          
+    private void continue0ActionPerformed(java.awt.event.ActionEvent evt) 
+    {                                          
         codered1 obj=new codered1();
         obj.setVisible(true);
     }                                         
-    public static void main(String args[]) {
+    public static void main(String args[]) 
+    {
         try {
-            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
-                if ("Nimbus".equals(info.getName())) {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) 
+            {
+                if ("Nimbus".equals(info.getName())) 
+                {
                     javax.swing.UIManager.setLookAndFeel(info.getClassName());
                     break;
                 }
