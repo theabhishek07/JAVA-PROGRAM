@@ -1,6 +1,8 @@
 import java.util.Scanner;//import scanner class
-public class scanner_demo {
-    public static void main(String[] args) {
+public class scanner_demo
+{
+    public static void main(String[] args) 
+    {
        //make object of scanner class
         Scanner sc=new Scanner(System.in);
         String name=sc.nextLine();//input of a string
@@ -11,6 +13,5 @@ public class scanner_demo {
         System.out.println("gender:" +gender);
         System.out.println("age:" +age);
         System.out.println("mobile no:" +mobileNo);
-        
     }
 }
