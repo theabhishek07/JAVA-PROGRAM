@@ -1,5 +1,7 @@
-public class math_class {
-    public static void main(String[] args) {
+public class math_class
+{
+    public static void main(String[] args)
+    {
         double x=28;
         double y=4;
                System.out.println("maximum of two numbers"+ Math.max(x, y));//return the max of two number
