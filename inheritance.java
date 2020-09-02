@@ -1,5 +1,7 @@
-class animal{
-     void dog(){
+class animal
+{
+     void dog()
+     {
          System.out.println("bark");
      }
  }
@@ -13,8 +15,10 @@ class air extends water{
         System.out.println("fly");
     }
 }
-public class inheritance {
-    public static void main(String[] args) {
+public class inheritance
+{
+    public static void main(String[] args) 
+    {
         air a1 =new air();
         a1.dog();
         a1.fish();
