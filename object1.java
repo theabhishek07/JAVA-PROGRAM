@@ -1,10 +1,13 @@
- class student {
+ class student
+ {
     int id;
     String name;
     
 }
-  public class object1{
-     public static void main(String[] args) {
+  public class object1
+  {
+     public static void main(String[] args)
+     {
       //creating object of the class student
      student s1 = new student();
      student s2 = new student();
