@@ -1,11 +1,14 @@
 
 package practice_java;
 
-public class convert0 extends javax.swing.JFrame {
-    public convert0() {
+public class convert0 extends javax.swing.JFrame 
+{
+    public convert0() 
+    {
         initComponents();
     }
-    private void initComponents() {
+    private void initComponents() 
+    {
 
         but_continue = new javax.swing.JToggleButton();
         welcome = new javax.swing.JLabel();
@@ -14,8 +17,10 @@ public class convert0 extends javax.swing.JFrame {
 
         but_continue.setFont(new java.awt.Font("Segoe UI Semilight", 0, 18)); // NOI18N
         but_continue.setText("continue");
-        but_continue.addActionListener(new java.awt.event.ActionListener() {
-            public void actionPerformed(java.awt.event.ActionEvent evt) {
+        but_continue.addActionListener(new java.awt.event.ActionListener() 
+        {
+            public void actionPerformed(java.awt.event.ActionEvent evt)
+            {
                 but_continueActionPerformed(evt);
             }
         });
