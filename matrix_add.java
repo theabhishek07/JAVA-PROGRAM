@@ -1,5 +1,7 @@
-public class matrix_add {
-    public static void main(String[] args) {
+public class matrix_add 
+{
+    public static void main(String[] args)
+    {
         int a[][]={{1,2,3},{4,5,6}};
         int b[][]={{6,5,4},{3,2,1}};
         int c[][]=new int[2][3];
