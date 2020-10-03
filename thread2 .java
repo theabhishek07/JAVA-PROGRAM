@@ -1,5 +1,7 @@
-public class thread2 extends Thread{
-    public void run(){
+public class thread2 extends Thread
+{
+    public void run()
+    {
         for(int i=0;i<10;i++)
         {
             try{
@@ -12,7 +14,8 @@ public class thread2 extends Thread{
         }
         
     }
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         thread2 t1=new thread2();
         thread2 t2=new thread2();
         t1.start();
