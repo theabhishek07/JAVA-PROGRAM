@@ -1,13 +1,16 @@
 //A static method can access static data member and can change the value of it
-class Student{
+class Student
+{
     String name;
     int roll_no ;
     static String college="UPES"; //static variable
 
-static void change(){
+static void change()
+{
 college="new";//static method
 }
-Student(int r,String n){
+Student(int r,String n)
+{
 roll_no=r;
 name=n;
 }
