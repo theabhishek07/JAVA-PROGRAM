@@ -1,6 +1,8 @@
 import java.util.*;
-public class linked_list {
-    public static void main(String[] args) {
+public class linked_list 
+{
+    public static void main(String[] args)
+    {
         LinkedList<String> object =new LinkedList<String>();//creating a obj of class linked list
         object.add("A");//adding elements in linked list
         object.add("B");
