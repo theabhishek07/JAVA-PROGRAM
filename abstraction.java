@@ -5,6 +5,8 @@ abstract void draw();
 class rectangle extends shape
 {
     void draw()
+    
+    
     {
         System.out.println("rectanle is drawn");
     }
