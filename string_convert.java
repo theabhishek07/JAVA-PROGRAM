@@ -1,6 +1,7 @@
 //WAP to take the input of full name and print it in short form
 //exmaple abhishek sharma>>a.sharma
-public class string_convert {
+public class string_convert 
+{
     String funtn(String name){//take the input of the string
         String [] st=name.split(" ");//split the string entered using the split function
         String str=" ";//declare a empty string
