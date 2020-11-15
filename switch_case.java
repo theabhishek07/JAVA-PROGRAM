@@ -1,4 +1,5 @@
-public class switch_case {
+public class switch_case
+{
     public static void main(String[] args) {
         int number = 16;
         switch(number){
