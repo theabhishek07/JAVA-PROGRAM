@@ -17,7 +17,8 @@ public class checked_propogation
             fun2();//exception handled
         }
         catch(Exception e){System.out.println("Exception handled");
-    }}
+    }
+ }
       public static void main(String args[])
       {
           exception_prpogation obj =new exception_prpogation();
