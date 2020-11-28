@@ -1,6 +1,8 @@
 //code to return the integer number of words in the input string
 //note. in input every new word is concatenated at the end of previous word and started with the uppercase
 //eg. saveChangesInTheEditor 5 words
+
+
 import java.util.Scanner;
 public class Case
 {
