@@ -21,8 +21,7 @@ class StudentClass
    StudentClass(int roll, String name, Address addr){
        this.rollNum=roll;
        this.studentName=name;
-       this.studentAddr = addr;
-   }
+       this.studentAddr = addr; }
    public static void main(String args[]){
        Address ad = new Address(5, "Agra", "UP", "India");
        StudentClass obj = new StudentClass(05, "Abhishek", a);
