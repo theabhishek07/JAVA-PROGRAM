@@ -1,4 +1,5 @@
-public class constructor {
+public class constructor
+{
     int roll;
     String name;
     int age;
@@ -13,10 +14,12 @@ public class constructor {
      name=n;
      age=a;
  }
- void display(){
+ void display()
+ {
  System.out.println(roll+ " "+name+" "+ age);
 }
-    public static void main(String[] args) {
+    public static void main(String[] args)
+    {
         constructor s1 = new constructor(101,"Sharma");
         constructor s2 = new constructor(106,"Abhishek",19);
         s1.display();
