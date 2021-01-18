@@ -1,5 +1,7 @@
-public class string_methods {
-    public static void main(String[] args) {
+public class string_methods
+{
+    public static void main(String[] args)
+    {
         String s="Github";
         System.out.println(s);
         System.out.println(s.toUpperCase());
