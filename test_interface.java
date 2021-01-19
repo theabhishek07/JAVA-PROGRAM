@@ -1,4 +1,5 @@
-interface bank{
+interface bank
+{
  float rate_of_intrest();
  }
 class AXIS implements bank{
