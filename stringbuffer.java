@@ -1,5 +1,7 @@
-public class stringbuffer {
-    public static void main(String[] args) {
+public class stringbuffer 
+{
+    public static void main(String[] args) 
+    {
         StringBuffer s1=new StringBuffer("JAVA");
         StringBuffer s2= new StringBuffer("HOLIDAYS");
         StringBuffer s3= new StringBuffer("SIRI");
