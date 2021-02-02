@@ -1,4 +1,3 @@
-
 public class if_else 
 {
     public static void main(String[] args)
@@ -17,7 +16,6 @@ public class if_else
 }
     else
     {
-        System.out.println("you are underage");
-}
+        System.out.println("you are underage");}
 }
 }
